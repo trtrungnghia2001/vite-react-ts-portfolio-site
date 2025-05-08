@@ -1,6 +1,6 @@
 ## Technologies Used
 
-* Frontend: React, Tailwind CSS, Shadcn UI
+* Frontend: React, Tailwind CSS, Shadcn UI, Framer Motion
 
 ## Demo
 
